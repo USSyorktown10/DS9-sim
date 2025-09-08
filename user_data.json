@@ -1,0 +1,43 @@
+{
+    "first_time": false,
+    "player_name": "Captain",
+    "player_proffesion": null,
+    "rank": 1,
+    "credits": 1000,
+    "inventory": [],
+    "location": {
+        "sector": "Alpha Quadrant",
+        "station": "Deep Space 9",
+        "exact_position": "Promenade"
+    },
+    "player_status": {
+        "health": 100,
+        "energy": 100,
+        "hunger": 100,
+        "thirst": 100,
+        "fatigue": 100
+    },
+    "station_status": {
+        "power": 100,
+        "shields": 100,
+        "hull": 100,
+        "crew_morale": 100,
+        "supplies": 100,
+        "diplomacy": 100,
+        "research": 100,
+        "trade": 100,
+        "infrastructure": 100,
+        "security": 100,
+        "medical": 100,
+        "engineering": 100,
+        "science": 100,
+        "operations": 100,
+        "communications": 100,
+        "navigation": 100
+    },
+    "diplomatic_relations": {
+        "federation": 100,
+        "klingons": 50,
+        "romulans": 50
+    }
+}
